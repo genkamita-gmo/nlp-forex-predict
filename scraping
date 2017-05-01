@@ -2,5 +2,8 @@
 
 currency_pair="$1"
 year="$2"
-lynx --dump http://www.histdata.com/download-free-forex-historical-data/?/ascii/tick-data-quotes/$currency_pair/$year | awk '/http/{print $2}' | grep $currency_pair > /tmp/file.txt
+lynx --dump http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/$currency_pair/$year | awk '/http/{print $2}' | grep $currency_pair > /tmp/file.txt
 
+# If switching from minutes to tick or the other way arround, modify the above url using the bellow
+#1-minute-bar-quotes
+#tick-data-quotes
