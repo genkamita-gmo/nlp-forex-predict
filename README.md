@@ -7,3 +7,5 @@ Foreign exchange market prediction from news using NLP.
 
 ## To Do
 Try automating file download, maybe use lynx applescript, vim etc...
+
+cliclick c:695,35
