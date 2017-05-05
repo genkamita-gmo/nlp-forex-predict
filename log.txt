@@ -1,0 +1,1958 @@
+---------------------------------------------
+found 21 /tmp/pair.txt links for currency pair eurusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2017/4
+there are now 1 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2017/3
+there are now 2 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2017/2
+there are now 3 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2017/1
+there are now 4 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2016
+there are now 5 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2015
+there are now 6 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2014
+there are now 7 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2013
+there are now 8 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2012
+there are now 9 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2011
+there are now 9 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2010
+there are now 10 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2009
+there are now 11 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2008
+there are now 12 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2007
+there are now 13 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2006
+there are now 14 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2005
+there are now 15 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2004
+there are now 16 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2003
+there are now 17 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2002
+there are now 18 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2001
+there are now 19 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2000
+there are now 20 files in the download folder
+---------------------------------------------
+found 19 /tmp/pair.txt links for currency pair eurchf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2017/4
+there are now 21 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2017/3
+there are now 22 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2017/2
+there are now 23 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2017/1
+there are now 24 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2016
+there are now 25 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2015
+there are now 26 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2014
+there are now 27 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2013
+there are now 28 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2012
+there are now 29 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2011
+there are now 30 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2010
+there are now 31 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2009
+there are now 32 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2008
+there are now 33 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2007
+there are now 34 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2006
+there are now 35 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2005
+there are now 36 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2004
+there are now 37 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2003
+there are now 38 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurchf/2002
+there are now 39 files in the download folder
+---------------------------------------------
+found 19 /tmp/pair.txt links for currency pair eurgbp
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2017/4
+there are now 40 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2017/3
+there are now 41 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2017/2
+there are now 42 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2017/1
+there are now 43 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2016
+there are now 44 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2015
+there are now 45 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2014
+there are now 46 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2013
+there are now 47 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2012
+there are now 48 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2011
+there are now 49 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2010
+there are now 50 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2009
+there are now 51 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2008
+there are now 52 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2007
+there are now 53 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2006
+there are now 54 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2005
+there are now 55 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2004
+there are now 56 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2003
+there are now 57 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurgbp/2002
+there are now 58 files in the download folder
+---------------------------------------------
+found 19 /tmp/pair.txt links for currency pair eurjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2017/4
+there are now 59 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2017/3
+there are now 60 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2017/2
+there are now 61 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2017/1
+there are now 62 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2016
+there are now 63 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2015
+there are now 64 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2014
+there are now 65 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2013
+there are now 66 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2012
+there are now 67 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2011
+there are now 68 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2010
+there are now 69 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2009
+there are now 70 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2008
+there are now 71 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2007
+there are now 72 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2006
+there are now 73 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2005
+there are now 74 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2004
+there are now 75 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2003
+there are now 76 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurjpy/2002
+there are now 77 files in the download folder
+---------------------------------------------
+found 19 /tmp/pair.txt links for currency pair euraud
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2017/4
+there are now 78 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2017/3
+there are now 79 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2017/2
+there are now 80 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2017/1
+there are now 81 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2016
+there are now 82 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2015
+there are now 83 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2014
+there are now 84 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2013
+there are now 85 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2012
+there are now 86 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2011
+there are now 87 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2010
+there are now 88 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2009
+there are now 89 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2008
+there are now 90 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2007
+there are now 91 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2006
+there are now 92 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2005
+there are now 93 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2004
+there are now 94 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2003
+there are now 95 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/euraud/2002
+there are now 96 files in the download folder
+---------------------------------------------
+found 21 /tmp/pair.txt links for currency pair usdcad
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2017/4
+there are now 97 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2017/3
+there are now 98 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2017/2
+there are now 99 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2017/1
+there are now 100 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2016
+there are now 101 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2015
+there are now 102 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2014
+there are now 103 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2013
+there are now 104 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2012
+there are now 105 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2011
+there are now 106 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2010
+there are now 107 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2009
+there are now 108 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2008
+there are now 109 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2007
+there are now 110 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2006
+there are now 111 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2005
+there are now 112 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2004
+there are now 113 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2003
+there are now 114 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2002
+there are now 115 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2001
+there are now 116 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdcad/2000
+there are now 117 files in the download folder
+---------------------------------------------
+found 21 /tmp/pair.txt links for currency pair usdchf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2017/4
+there are now 118 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2017/3
+there are now 119 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2017/2
+there are now 120 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2017/1
+there are now 121 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2016
+there are now 122 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2015
+there are now 123 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2014
+there are now 124 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2013
+there are now 125 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2012
+there are now 126 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2011
+there are now 127 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2010
+there are now 128 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2009
+there are now 129 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2008
+there are now 130 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2007
+there are now 131 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2006
+there are now 132 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2005
+there are now 133 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2004
+there are now 134 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2003
+there are now 135 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2002
+there are now 136 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2001
+there are now 137 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdchf/2000
+there are now 138 files in the download folder
+---------------------------------------------
+found 21 /tmp/pair.txt links for currency pair usdjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2017/4
+there are now 139 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2017/3
+there are now 140 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2017/2
+there are now 141 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2017/1
+there are now 142 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2016
+there are now 143 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2015
+there are now 144 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2014
+there are now 145 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2013
+there are now 146 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2012
+there are now 147 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2011
+there are now 148 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2010
+there are now 149 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2009
+there are now 150 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2008
+there are now 151 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2007
+there are now 152 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2006
+there are now 153 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2005
+there are now 154 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2004
+there are now 155 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2003
+there are now 156 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2002
+there are now 157 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2001
+there are now 158 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdjpy/2000
+there are now 159 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair usdmxn
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2017/4
+there are now 160 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2017/3
+there are now 161 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2017/2
+there are now 162 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2017/1
+there are now 163 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2016
+there are now 164 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2015
+there are now 165 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2014
+there are now 166 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2013
+there are now 167 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2012
+there are now 168 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2011
+there are now 169 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdmxn/2010
+there are now 170 files in the download folder
+---------------------------------------------
+found 19 /tmp/pair.txt links for currency pair gbpchf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2017/4
+there are now 171 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2017/3
+there are now 172 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2017/2
+there are now 173 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2017/1
+there are now 174 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2016
+there are now 175 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2015
+there are now 176 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2014
+there are now 177 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2013
+there are now 178 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2012
+there are now 179 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2011
+there are now 180 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2010
+there are now 181 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2009
+there are now 182 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2008
+there are now 183 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2007
+there are now 184 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2006
+there are now 185 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2005
+there are now 186 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2004
+there are now 187 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2003
+there are now 188 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpchf/2002
+there are now 189 files in the download folder
+---------------------------------------------
+found 19 /tmp/pair.txt links for currency pair gbpjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2017/4
+there are now 190 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2017/3
+there are now 191 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2017/2
+there are now 192 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2017/1
+there are now 193 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2016
+there are now 194 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2015
+there are now 195 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2014
+there are now 196 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2013
+there are now 197 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2012
+there are now 198 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2011
+there are now 199 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2010
+there are now 200 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2009
+there are now 201 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2008
+there are now 202 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2007
+there are now 203 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2006
+there are now 204 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2005
+there are now 205 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2004
+there are now 206 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2003
+there are now 207 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpjpy/2002
+there are now 208 files in the download folder
+---------------------------------------------
+found 21 /tmp/pair.txt links for currency pair gbpusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2017/4
+there are now 209 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2017/3
+there are now 210 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2017/2
+there are now 211 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2017/1
+there are now 212 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2016
+there are now 213 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2015
+there are now 214 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2014
+there are now 215 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2013
+there are now 216 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2012
+there are now 217 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2011
+there are now 218 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2010
+there are now 219 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2009
+there are now 220 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2008
+there are now 221 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2007
+there are now 222 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2006
+there are now 223 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2005
+there are now 224 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2004
+there are now 225 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2003
+there are now 226 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2002
+there are now 227 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2001
+there are now 228 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpusd/2000
+there are now 229 files in the download folder
+---------------------------------------------
+found 19 /tmp/pair.txt links for currency pair audjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2017/4
+there are now 230 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2017/3
+there are now 231 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2017/2
+there are now 232 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2017/1
+there are now 233 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2016
+there are now 234 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2015
+there are now 235 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2014
+there are now 236 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2013
+there are now 237 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2012
+there are now 238 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2011
+there are now 239 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2010
+there are now 240 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2009
+there are now 241 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2008
+there are now 242 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2007
+there are now 243 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2006
+there are now 244 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2005
+there are now 245 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2004
+there are now 246 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2003
+there are now 247 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audjpy/2002
+there are now 248 files in the download folder
+---------------------------------------------
+found 21 /tmp/pair.txt links for currency pair audusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2017/4
+there are now 249 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2017/3
+there are now 250 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2017/2
+there are now 251 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2017/1
+there are now 252 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2016
+there are now 253 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2015
+there are now 254 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2014
+there are now 255 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2013
+there are now 256 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2012
+there are now 257 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2011
+there are now 258 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2010
+there are now 259 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2009
+there are now 260 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2008
+there are now 261 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2007
+there are now 262 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2006
+there are now 263 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2005
+there are now 264 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2004
+there are now 265 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2003
+there are now 266 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2002
+there are now 267 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2001
+there are now 268 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audusd/2000
+there are now 269 files in the download folder
+---------------------------------------------
+found 19 /tmp/pair.txt links for currency pair chfjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2017/4
+there are now 270 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2017/3
+there are now 271 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2017/2
+there are now 272 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2017/1
+there are now 273 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2016
+there are now 274 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2015
+there are now 275 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2014
+there are now 276 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2013
+there are now 277 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2012
+there are now 278 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2011
+there are now 279 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2010
+there are now 280 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2009
+there are now 281 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2008
+there are now 282 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2007
+there are now 283 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2006
+there are now 284 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2005
+there are now 285 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2004
+there are now 285 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2003
+there are now 285 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/chfjpy/2002
+there are now 286 files in the download folder
+---------------------------------------------
+found 15 /tmp/pair.txt links for currency pair nzdjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2017/4
+there are now 287 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2017/3
+there are now 288 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2017/2
+there are now 289 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2017/1
+there are now 290 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2016
+there are now 291 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2015
+there are now 292 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2014
+there are now 293 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2013
+there are now 294 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2012
+there are now 295 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2011
+there are now 296 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2010
+there are now 297 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2009
+there are now 298 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2008
+there are now 299 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2007
+there are now 300 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdjpy/2006
+there are now 301 files in the download folder
+---------------------------------------------
+found 16 /tmp/pair.txt links for currency pair nzdusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2017/4
+there are now 302 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2017/3
+there are now 303 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2017/2
+there are now 304 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2017/1
+there are now 305 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2016
+there are now 306 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2015
+there are now 307 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2014
+there are now 308 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2013
+there are now 309 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2012
+there are now 310 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2011
+there are now 311 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2010
+there are now 312 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2009
+there are now 313 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2008
+there are now 314 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2007
+there are now 315 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2006
+there are now 316 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdusd/2005
+there are now 317 files in the download folder
+---------------------------------------------
+found 12 /tmp/pair.txt links for currency pair xauusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2017/4
+there are now 318 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2017/3
+there are now 319 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2017/2
+there are now 320 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2017/1
+there are now 321 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2016
+there are now 322 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2015
+there are now 323 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2014
+there are now 324 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2013
+there are now 325 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2012
+there are now 326 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2011
+there are now 327 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2010
+there are now 328 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauusd/2009
+there are now 329 files in the download folder
+---------------------------------------------
+found 14 /tmp/pair.txt links for currency pair eurcad
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2017/4
+there are now 330 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2017/3
+there are now 331 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2017/2
+there are now 332 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2017/1
+there are now 333 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2016
+there are now 334 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2015
+there are now 335 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2014
+there are now 336 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2013
+there are now 337 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2012
+there are now 338 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2011
+there are now 339 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2010
+there are now 340 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2009
+there are now 341 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2008
+there are now 342 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurcad/2007
+there are now 343 files in the download folder
+---------------------------------------------
+found 14 /tmp/pair.txt links for currency pair audcad
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2017/4
+there are now 344 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2017/3
+there are now 345 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2017/2
+there are now 346 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2017/1
+there are now 347 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2016
+there are now 348 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2015
+there are now 349 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2014
+there are now 350 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2013
+there are now 351 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2012
+there are now 352 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2011
+there are now 353 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2010
+there are now 354 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2009
+there are now 355 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2008
+there are now 356 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audcad/2007
+there are now 357 files in the download folder
+---------------------------------------------
+found 14 /tmp/pair.txt links for currency pair cadjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2017/4
+there are now 358 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2017/3
+there are now 359 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2017/2
+there are now 360 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2017/1
+there are now 361 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2016
+there are now 362 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2015
+there are now 363 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2014
+there are now 364 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2013
+there are now 365 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2012
+there are now 366 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2011
+there are now 367 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2010
+there are now 368 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2009
+there are now 369 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2008
+there are now 370 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadjpy/2007
+there are now 371 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair eurnzd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2017/4
+there are now 372 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2017/3
+there are now 373 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2017/2
+there are now 374 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2017/1
+there are now 375 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2016
+there are now 376 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2015
+there are now 377 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2014
+there are now 378 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2013
+there are now 379 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2012
+there are now 380 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2011
+there are now 381 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2010
+there are now 382 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2009
+there are now 383 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnzd/2008
+there are now 384 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair grxeur
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2017/4
+there are now 385 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2017/3
+there are now 386 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2017/2
+there are now 387 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2017/1
+there are now 388 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2016
+there are now 389 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2015
+there are now 390 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2014
+there are now 391 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2013
+there are now 392 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2012
+there are now 393 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2011
+there are now 394 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2010
+there are now 395 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair nzdcad
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2017/4
+there are now 396 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2017/3
+there are now 397 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2017/2
+there are now 398 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2017/1
+there are now 399 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2016
+there are now 400 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2015
+there are now 401 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2014
+there are now 402 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2013
+there are now 403 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2012
+there are now 404 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2011
+there are now 405 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2010
+there are now 406 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2009
+there are now 407 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdcad/2008
+there are now 408 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair sgdjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2017/4
+there are now 409 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2017/3
+there are now 410 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2017/2
+there are now 411 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2017/1
+there are now 412 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2016
+there are now 413 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2015
+there are now 414 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2014
+there are now 415 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2013
+there are now 416 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2012
+there are now 417 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2011
+there are now 418 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2010
+there are now 419 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2009
+there are now 420 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/sgdjpy/2008
+there are now 421 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair usdhkd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2017/4
+there are now 422 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2017/3
+there are now 423 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2017/2
+there are now 424 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2017/1
+there are now 425 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2016
+there are now 426 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2015
+there are now 427 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2014
+there are now 428 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2013
+there are now 429 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2012
+there are now 430 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2011
+there are now 431 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2010
+there are now 432 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2009
+there are now 433 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhkd/2008
+there are now 434 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair usdnok
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2017/4
+there are now 435 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2017/3
+there are now 436 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2017/2
+there are now 437 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2017/1
+there are now 438 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2016
+there are now 439 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2015
+there are now 440 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2014
+there are now 441 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2013
+there are now 442 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2012
+there are now 443 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2011
+there are now 444 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2010
+there are now 445 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2009
+there are now 446 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdnok/2008
+there are now 447 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair usdtry
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2017/4
+there are now 448 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2017/3
+there are now 449 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2017/2
+there are now 450 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2017/1
+there are now 451 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2016
+there are now 452 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2015
+there are now 453 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2014
+there are now 454 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2013
+there are now 455 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2012
+there are now 456 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2011
+there are now 457 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdtry/2010
+there are now 458 files in the download folder
+---------------------------------------------
+found 12 /tmp/pair.txt links for currency pair xauaud
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2017/4
+there are now 459 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2017/3
+there are now 460 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2017/2
+there are now 461 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2017/1
+there are now 462 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2016
+there are now 463 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2015
+there are now 464 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2014
+there are now 465 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2013
+there are now 466 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2012
+there are now 467 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2011
+there are now 468 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2010
+there are now 469 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauaud/2009
+there are now 470 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair audchf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2017/4
+there are now 471 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2017/3
+there are now 472 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2017/2
+there are now 473 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2017/1
+there are now 474 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2016
+there are now 475 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2015
+there are now 476 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2014
+there are now 477 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2013
+there are now 478 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2012
+there are now 479 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2011
+there are now 480 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2010
+there are now 481 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2009
+there are now 482 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audchf/2008
+there are now 483 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair auxaud
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2017/4
+there are now 484 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2017/3
+there are now 485 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2017/2
+there are now 486 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2017/1
+there are now 487 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2016
+there are now 488 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2015
+there are now 489 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2014
+there are now 490 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2013
+there are now 491 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2012
+there are now 492 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2011
+there are now 493 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/auxaud/2010
+there are now 494 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair eurhuf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2017/4
+there are now 495 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2017/3
+there are now 496 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2017/2
+there are now 497 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2017/1
+there are now 498 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2016
+there are now 498 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2015
+there are now 498 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2014
+there are now 499 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2013
+there are now 500 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2012
+there are now 501 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2011
+there are now 502 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurhuf/2010
+there are now 503 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair eurpln
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2017/4
+there are now 504 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2017/3
+there are now 505 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2017/2
+there are now 506 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2017/1
+there are now 507 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2016
+there are now 508 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2015
+there are now 509 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2014
+there are now 510 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2013
+there are now 511 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2012
+there are now 512 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2011
+there are now 513 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurpln/2010
+there are now 514 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair frxeur
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2017/4
+there are now 515 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2017/3
+there are now 516 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2017/2
+there are now 517 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2017/1
+there are now 518 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2016
+there are now 519 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2015
+there are now 520 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2014
+there are now 521 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2013
+there are now 522 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2012
+there are now 523 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2011
+there are now 524 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/frxeur/2010
+there are now 525 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair hkxhkd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2017/4
+there are now 526 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2017/3
+there are now 527 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2017/2
+there are now 527 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2017/1
+there are now 528 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2016
+there are now 529 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2015
+there are now 530 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2014
+there are now 531 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2013
+there are now 532 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2012
+there are now 533 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2011
+there are now 534 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/hkxhkd/2010
+there are now 535 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair nzdchf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2017/4
+there are now 536 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2017/3
+there are now 537 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2017/2
+there are now 538 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2017/1
+there are now 539 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2016
+there are now 540 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2015
+there are now 541 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2014
+there are now 542 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2013
+there are now 543 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2012
+there are now 544 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2011
+there are now 545 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2010
+there are now 546 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2009
+there are now 547 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nzdchf/2008
+there are now 548 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair spxusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2017/4
+there are now 549 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2017/3
+there are now 550 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2017/2
+there are now 551 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2017/1
+there are now 552 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2016
+there are now 553 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2015
+there are now 554 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2014
+there are now 555 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2013
+there are now 556 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2012
+there are now 557 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2011
+there are now 558 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/spxusd/2010
+there are now 559 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair usdhuf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2017/4
+there are now 560 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2017/3
+there are now 561 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2017/2
+there are now 562 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2017/1
+there are now 563 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2016
+there are now 564 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2015
+there are now 565 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2014
+there are now 566 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2013
+there are now 567 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2012
+there are now 568 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2011
+there are now 569 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdhuf/2010
+there are now 570 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair usdpln
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2017/4
+there are now 571 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2017/3
+there are now 572 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2017/2
+there are now 573 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2017/1
+there are now 574 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2016
+there are now 575 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2015
+there are now 576 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2014
+there are now 577 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2013
+there are now 578 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2012
+there are now 579 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2011
+there are now 580 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdpln/2010
+there are now 581 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair usdzar
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2017/4
+there are now 582 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2017/3
+there are now 583 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2017/2
+there are now 584 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2017/1
+there are now 585 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2016
+there are now 586 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2015
+there are now 587 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2014
+there are now 588 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2013
+there are now 589 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2012
+there are now 590 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2011
+there are now 591 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdzar/2010
+there are now 592 files in the download folder
+---------------------------------------------
+found 12 /tmp/pair.txt links for currency pair xauchf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2017/4
+there are now 593 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2017/3
+there are now 594 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2017/2
+there are now 595 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2017/1
+there are now 596 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2016
+there are now 597 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2015
+there are now 598 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2014
+there are now 599 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2013
+there are now 600 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2012
+there are now 601 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2011
+there are now 602 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2010
+there are now 603 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xauchf/2009
+there are now 604 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair zarjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2017/4
+there are now 605 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2017/3
+there are now 606 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2017/2
+there are now 607 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2017/1
+there are now 608 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2016
+there are now 609 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2015
+there are now 610 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2014
+there are now 611 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2013
+there are now 612 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2012
+there are now 613 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2011
+there are now 614 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/zarjpy/2010
+there are now 615 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair bcousd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2017/4
+there are now 616 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2017/3
+there are now 617 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2017/2
+there are now 618 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2017/1
+there are now 619 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2016
+there are now 620 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2015
+there are now 621 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2014
+there are now 622 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2013
+there are now 623 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2012
+there are now 624 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2011
+there are now 625 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/bcousd/2010
+there are now 626 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair etxeur
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2017/4
+there are now 627 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2017/3
+there are now 628 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2017/2
+there are now 629 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2017/1
+there are now 630 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2016
+there are now 631 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2015
+there are now 632 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2014
+there are now 633 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2013
+there are now 634 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2012
+there are now 635 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2011
+there are now 636 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2010
+there are now 637 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair eurczk
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2017/4
+there are now 638 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2017/3
+there are now 639 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2017/2
+there are now 640 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2017/1
+there are now 641 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2016
+there are now 642 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2015
+there are now 643 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2014
+there are now 644 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2013
+there are now 645 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2012
+there are now 646 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2011
+there are now 647 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurczk/2010
+there are now 648 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair eursek
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2017/4
+there are now 649 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2017/3
+there are now 650 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2017/2
+there are now 651 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2017/1
+there are now 652 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2016
+there are now 653 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2015
+there are now 654 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2014
+there are now 655 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2013
+there are now 656 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2012
+there are now 657 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2011
+there are now 658 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2010
+there are now 659 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2009
+there are now 660 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eursek/2008
+there are now 661 files in the download folder
+---------------------------------------------
+found 14 /tmp/pair.txt links for currency pair gbpaud
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2017/4
+there are now 662 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2017/3
+there are now 663 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2017/2
+there are now 664 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2017/1
+there are now 665 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2016
+there are now 666 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2015
+there are now 667 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2014
+there are now 668 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2013
+there are now 669 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2012
+there are now 670 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2011
+there are now 671 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2010
+there are now 672 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2009
+there are now 673 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2008
+there are now 674 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpaud/2007
+there are now 675 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair gbpnzd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2017/4
+there are now 676 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2017/3
+there are now 677 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2017/2
+there are now 678 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2017/1
+there are now 679 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2016
+there are now 680 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2015
+there are now 681 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2014
+there are now 682 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2013
+there are now 683 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2012
+there are now 684 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2011
+there are now 685 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2010
+there are now 686 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2009
+there are now 687 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpnzd/2008
+there are now 688 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair jpxjpy
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2017/4
+there are now 689 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2017/3
+there are now 690 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2017/2
+there are now 691 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2017/1
+there are now 692 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2016
+there are now 693 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2015
+there are now 694 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2014
+there are now 695 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2013
+there are now 696 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2012
+there are now 697 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2011
+there are now 698 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2010
+there are now 699 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair udxusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2017/4
+there are now 700 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2017/3
+there are now 701 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2017/2
+there are now 702 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2017/1
+there are now 703 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2016
+there are now 704 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2015
+there are now 705 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2014
+there are now 706 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2013
+there are now 707 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2012
+there are now 708 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2011
+there are now 709 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2010
+there are now 710 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair usdczk
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2017/4
+there are now 710 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2017/3
+there are now 711 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2017/2
+there are now 712 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2017/1
+there are now 713 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2016
+there are now 714 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2015
+there are now 715 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2014
+there are now 716 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2013
+there are now 717 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2012
+there are now 718 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2011
+there are now 719 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdczk/2010
+there are now 720 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair usdsek
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2017/4
+there are now 721 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2017/3
+there are now 722 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2017/2
+there are now 723 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2017/1
+there are now 724 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2016
+there are now 725 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2015
+there are now 726 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2014
+there are now 727 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2013
+there are now 728 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2012
+there are now 729 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2011
+there are now 730 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2010
+there are now 731 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2009
+there are now 732 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsek/2008
+there are now 733 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair wtiusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2017/4
+there are now 734 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2017/3
+there are now 735 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2017/2
+there are now 736 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2017/1
+there are now 737 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2016
+there are now 738 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2015
+there are now 739 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2014
+there are now 740 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2013
+there are now 741 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2012
+there are now 742 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2011
+there are now 743 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2010
+there are now 744 files in the download folder
+---------------------------------------------
+found 12 /tmp/pair.txt links for currency pair xaueur
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2017/4
+there are now 745 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2017/3
+there are now 746 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2017/2
+there are now 747 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2017/1
+there are now 748 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2016
+there are now 749 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2015
+there are now 750 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2014
+there are now 751 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2013
+there are now 752 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2012
+there are now 753 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2011
+there are now 754 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2010
+there are now 755 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaueur/2009
+there are now 756 files in the download folder
+---------------------------------------------
+found 14 /tmp/pair.txt links for currency pair audnzd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2017/4
+there are now 757 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2017/3
+there are now 758 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2017/2
+there are now 759 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2017/1
+there are now 760 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2016
+there are now 761 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2015
+there are now 762 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2014
+there are now 763 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2013
+there are now 764 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2012
+there are now 765 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2011
+there are now 766 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2010
+there are now 767 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2009
+there are now 768 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2008
+there are now 769 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/audnzd/2007
+there are now 770 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair cadchf
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2017/4
+there are now 771 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2017/3
+there are now 772 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2017/2
+there are now 773 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2017/1
+there are now 774 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2016
+there are now 775 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2015
+there are now 776 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2014
+there are now 777 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2013
+there are now 778 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2012
+there are now 779 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2011
+there are now 780 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2010
+there are now 781 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2009
+there are now 782 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/cadchf/2008
+there are now 783 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair eurdkk
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2017/4
+there are now 784 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2017/3
+there are now 785 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2017/2
+there are now 786 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2017/1
+there are now 787 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2016
+there are now 788 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2015
+there are now 789 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2014
+there are now 790 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2013
+there are now 791 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2012
+there are now 792 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2011
+there are now 793 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2010
+there are now 794 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2009
+there are now 795 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurdkk/2008
+there are now 796 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair eurnok
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2017/4
+there are now 797 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2017/3
+there are now 798 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2017/2
+there are now 799 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2017/1
+there are now 800 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2016
+there are now 801 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2015
+there are now 802 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2014
+there are now 803 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2013
+there are now 804 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2012
+there are now 805 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2011
+there are now 806 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2010
+there are now 807 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2009
+there are now 808 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurnok/2008
+there are now 809 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair eurtry
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2017/4
+there are now 810 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2017/3
+there are now 811 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2017/2
+there are now 812 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2017/1
+there are now 813 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2016
+there are now 814 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2015
+there are now 815 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2014
+there are now 816 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2013
+there are now 817 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2012
+there are now 818 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2011
+there are now 819 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurtry/2010
+there are now 820 files in the download folder
+---------------------------------------------
+found 14 /tmp/pair.txt links for currency pair gbpcad
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2017/4
+there are now 821 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2017/3
+there are now 822 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2017/2
+there are now 823 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2017/1
+there are now 824 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2016
+there are now 825 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2015
+there are now 826 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2014
+there are now 827 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2013
+there are now 828 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2012
+there are now 829 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2011
+there are now 830 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2010
+there are now 831 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2009
+there are now 832 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2008
+there are now 833 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/gbpcad/2007
+there are now 834 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair nsxusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2017/4
+there are now 835 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2017/3
+there are now 836 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2017/2
+there are now 837 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2017/1
+there are now 838 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2016
+there are now 839 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2015
+there are now 840 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2014
+there are now 841 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2013
+there are now 842 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2012
+there are now 843 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2011
+there are now 844 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2010
+there are now 845 files in the download folder
+---------------------------------------------
+found 11 /tmp/pair.txt links for currency pair ukxgbp
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2017/4
+there are now 846 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2017/3
+there are now 847 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2017/2
+there are now 848 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2017/1
+there are now 849 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2016
+there are now 850 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2015
+there are now 851 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2014
+there are now 852 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2013
+there are now 853 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2012
+there are now 854 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2011
+there are now 855 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2010
+there are now 856 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair usddkk
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2017/4
+there are now 857 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2017/3
+there are now 858 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2017/2
+there are now 859 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2017/1
+there are now 860 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2016
+there are now 861 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2015
+there are now 862 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2014
+there are now 863 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2013
+there are now 864 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2012
+there are now 865 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2011
+there are now 866 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2010
+there are now 867 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2009
+there are now 868 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usddkk/2008
+there are now 869 files in the download folder
+---------------------------------------------
+found 13 /tmp/pair.txt links for currency pair usdsgd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2017/4
+there are now 870 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2017/3
+there are now 871 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2017/2
+there are now 872 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2017/1
+there are now 873 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2016
+there are now 874 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2015
+there are now 875 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2014
+there are now 876 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2013
+there are now 877 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2012
+there are now 878 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2011
+there are now 879 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2010
+there are now 880 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2009
+there are now 881 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/usdsgd/2008
+there are now 882 files in the download folder
+---------------------------------------------
+found 12 /tmp/pair.txt links for currency pair xagusd
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2017/4
+there are now 883 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2017/3
+there are now 884 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2017/2
+there are now 885 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2017/1
+there are now 886 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2016
+there are now 887 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2015
+there are now 888 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2014
+there are now 889 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2013
+there are now 890 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2012
+there are now 891 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2011
+there are now 892 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2010
+there are now 893 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2009
+there are now 894 files in the download folder
+---------------------------------------------
+found 12 /tmp/pair.txt links for currency pair xaugbp
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2017/4
+there are now 895 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2017/3
+there are now 896 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2017/2
+there are now 897 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2017/1
+there are now 898 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2016
+there are now 899 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2015
+there are now 900 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2014
+there are now 901 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2013
+there are now 902 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2012
+there are now 903 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2011
+there are now 903 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2010
+there are now 904 files in the download folder
+try downloading from http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xaugbp/2009
+there are now 905 files in the download folder

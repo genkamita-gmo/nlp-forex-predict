@@ -1,0 +1,15 @@
+#!/bin/sh
+# make sure that the safari window is adjusted for the click action
+
+
+for n in $( cat currency_pairs_lower.txt ); do
+    sh get-links-of-pair $n
+    echo ---------------------------------------------
+    echo found $(wc -l /tmp/pair.txt) links for currency pair $n
+    for i in $( cat /tmp/pair.txt ); do
+        echo try downloading from $i
+        sh download-file $i 440 670;
+        osascript close-safari-window.scpt
+        echo there are now $(ls -l ~/Downloads/ | awk '/staff/{print}' | wc -l) files in the download folder
+    done
+done

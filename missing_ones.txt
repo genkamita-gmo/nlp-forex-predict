@@ -1,0 +1,8 @@
+found: 913
+downloaded: 905
+missing ones:
+21  eurusd 20
+19  chfjpy 17
+11  eurhuf  9
+11  hkxhkd 10
+11  usdczk 10
