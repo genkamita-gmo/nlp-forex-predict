@@ -1,0 +1,15 @@
+HistData.com (c) 2012
+File: DAT_ASCII_AUDJPY_M1_201702.csv Status Report
+
+Gap of 71s found between 20170206170047 and 20170206170204.
+Gap of 66s found between 20170209172801 and 20170209172913.
+Gap of 156s found between 20170212170158 and 20170212170440.
+Gap of 98s found between 20170216174319 and 20170216174503.
+Gap of 62s found between 20170220120713 and 20170220120821.
+Gap of 71s found between 20170220170342 and 20170220170500.
+Gap of 98s found between 20170220170910 and 20170220171055.
+Gap of 66s found between 20170220171351 and 20170220171504.
+Gap of 87s found between 20170226172837 and 20170226173010.
+
+Average tick interval: 5097 miliseconds.
+Maximum tick interval found: 156000 miliseconds.

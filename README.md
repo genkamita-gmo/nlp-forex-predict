@@ -20,15 +20,19 @@ Foreign exchange market prediction using NLP.
 * Check number of lines in 
 
 $ sh reuters-link | wc -l
+
  8551467
 
 $ sh reuters-timestamp | wc -l
+
  8551467
 
 $ cat reuters-all.txt | wc -l
+
  8551467
 
 $ wc -l reuters-title.txt
+
  8551467 reuters-title.txt
 
 it looks ok.

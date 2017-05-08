@@ -1,0 +1,24 @@
+HistData.com (c) 2012
+File: DAT_ASCII_CADJPY_M1_201701.csv Status Report
+
+Gap of 62s found between 20170102104556 and 20170102104704.
+Gap of 189s found between 20170102120451 and 20170102120806.
+Gap of 72s found between 20170102121016 and 20170102121135.
+Gap of 65s found between 20170102121159 and 20170102121311.
+Gap of 73s found between 20170102121656 and 20170102121816.
+Gap of 71s found between 20170102121956 and 20170102122114.
+Gap of 64s found between 20170102135033 and 20170102135144.
+Gap of 78s found between 20170102135347 and 20170102135511.
+Gap of 84s found between 20170102163046 and 20170102163216.
+Gap of 65s found between 20170102225015 and 20170102225126.
+Gap of 62s found between 20170105172117 and 20170105172225.
+Gap of 60s found between 20170108170244 and 20170108170351.
+Gap of 65s found between 20170108170854 and 20170108171006.
+Gap of 61s found between 20170110181756 and 20170110181904.
+Gap of 83s found between 20170116170256 and 20170116170426.
+Gap of 74s found between 20170119170322 and 20170119170442.
+Gap of 67s found between 20170129174006 and 20170129174120.
+Gap of 69s found between 20170129175804 and 20170129175919.
+
+Average tick interval: 5199 miliseconds.
+Maximum tick interval found: 189000 miliseconds.

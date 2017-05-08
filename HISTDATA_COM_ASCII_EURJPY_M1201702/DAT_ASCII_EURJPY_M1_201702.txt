@@ -1,0 +1,21 @@
+HistData.com (c) 2012
+File: DAT_ASCII_EURJPY_M1_201702.csv Status Report
+
+Gap of 64s found between 20170205172532 and 20170205172642.
+Gap of 74s found between 20170209173732 and 20170209173852.
+Gap of 76s found between 20170215170338 and 20170215170501.
+Gap of 76s found between 20170215173823 and 20170215173945.
+Gap of 63s found between 20170220131251 and 20170220131400.
+Gap of 61s found between 20170220161611 and 20170220161718.
+Gap of 112s found between 20170220170219 and 20170220170417.
+Gap of 62s found between 20170221170042 and 20170221170150.
+Gap of 63s found between 20170221171542 and 20170221171651.
+Gap of 71s found between 20170223170916 and 20170223171033.
+Gap of 88s found between 20170223171609 and 20170223171743.
+Gap of 69s found between 20170226172228 and 20170226172344.
+Gap of 80s found between 20170226174049 and 20170226174216.
+Gap of 68s found between 20170226174749 and 20170226174904.
+Gap of 90s found between 20170226175102 and 20170226175238.
+
+Average tick interval: 5318 miliseconds.
+Maximum tick interval found: 112750 miliseconds.

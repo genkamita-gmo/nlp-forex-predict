@@ -1,0 +1,9 @@
+HistData.com (c) 2012
+File: DAT_ASCII_USDCAD_M1_2000.csv Status Report
+
+Gap of 331s found between 20000616191350 and 20000616191927.
+Gap of 180s found between 20000616191927 and 20000616192233.
+Gap of 453s found between 20000804182921 and 20000804183700.
+
+Average tick interval: 47083 miliseconds.
+Maximum tick interval found: 453000 miliseconds.
