@@ -38,7 +38,10 @@ $ wc -l reuters-title.txt
 it looks ok.
 
 * Number of news per day: approx 300 - 1700
-* Holidays make news halved (for example 25/Dec: 539)
-* news
+* Holidays reduces the number of news, for example 25/Dec has 539 news
 
-## To Do
+#### To Do
+* Clean title.txt be removing duplicates etc.
+* Unify timzones.
+* Check all txt files can be loaded as pandas dataframe. currently timestamp cannot.
+* Make histogram of number of news.
