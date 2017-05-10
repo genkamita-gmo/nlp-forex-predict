@@ -42,12 +42,12 @@ it looks ok.
 
 ### To Do
 #### Urgent
-* Automate data cleaning
-** Write script that extracts title only
-** Find CR that splits title into separate lines and do something about it.
-** load text as pandas dataframe and replace \n with white space
-** save result as non decorated text file. When I do this, entries with \n will have "" but not for those without.
-** reuter titles contain '"', what shall I do... Does gensim remove '"' as well? -> do some tests.
+Automate data cleaning
+* Write script that extracts title only
+* Find CR that splits title into separate lines and do something about it.
+* load text as pandas dataframe and replace \n with white space
+* save result as non decorated text file. When I do this, entries with \n will have "" but not for those without.
+* reuter titles contain '"', what shall I do... Does gensim remove '"' as well? -> do some tests.
 
 #### Not Urgent
 * Clean title.txt be removing duplicates etc.
