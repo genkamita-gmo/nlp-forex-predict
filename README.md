@@ -40,7 +40,16 @@ it looks ok.
 * Number of news per day: approx 300 - 1700
 * Holidays reduces the number of news, for example 25/Dec has 539 news
 
-#### To Do
+### To Do
+#### Urgent
+* Automate data cleaning
+** Write script that extracts title only
+** Find CR that splits title into separate lines and do something about it.
+** load text as pandas dataframe and replace \n with white space
+** save result as non decorated text file. When I do this, entries with \n will have "" but not for those without.
+** reuter titles contain '"', what shall I do... Does gensim remove '"' as well? -> do some tests.
+
+# Not Urgent
 * Clean title.txt be removing duplicates etc.
 * Unify timzones.
 * Check all txt files can be loaded as pandas dataframe. currently timestamp cannot.
