@@ -1,0 +1,19 @@
+HistData.com (c) 2012
+File: DAT_ASCII_EURCAD_M1_201702.csv Status Report
+
+Gap of 60s found between 20170202174131 and 20170202174237.
+Gap of 129s found between 20170205172751 and 20170205173007.
+Gap of 64s found between 20170205174027 and 20170205174137.
+Gap of 74s found between 20170208170116 and 20170208170236.
+Gap of 109s found between 20170209174301 and 20170209174456.
+Gap of 84s found between 20170213172445 and 20170213172615.
+Gap of 74s found between 20170214175031 and 20170214175151.
+Gap of 60s found between 20170220133939 and 20170220134046.
+Gap of 63s found between 20170220134424 and 20170220134534.
+Gap of 128s found between 20170220170303 and 20170220170517.
+Gap of 67s found between 20170223173320 and 20170223173434.
+Gap of 64s found between 20170223174807 and 20170223174918.
+Gap of 67s found between 20170228175727 and 20170228175841.
+
+Average tick interval: 5137 miliseconds.
+Maximum tick interval found: 129500 miliseconds.

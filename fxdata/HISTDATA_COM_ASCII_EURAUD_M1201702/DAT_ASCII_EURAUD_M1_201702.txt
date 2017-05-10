@@ -1,0 +1,18 @@
+HistData.com (c) 2012
+File: DAT_ASCII_EURAUD_M1_201702.csv Status Report
+
+Gap of 76s found between 20170201165953 and 20170201170115.
+Gap of 70s found between 20170201170126 and 20170201170242.
+Gap of 62s found between 20170205172327 and 20170205172435.
+Gap of 89s found between 20170208170112 and 20170208170247.
+Gap of 70s found between 20170214165959 and 20170214170116.
+Gap of 61s found between 20170215174054 and 20170215174202.
+Gap of 70s found between 20170216170000 and 20170216170116.
+Gap of 74s found between 20170219170034 and 20170219170154.
+Gap of 74s found between 20170220165954 and 20170220170115.
+Gap of 111s found between 20170220170126 and 20170220170324.
+Gap of 89s found between 20170220170342 and 20170220170517.
+Gap of 67s found between 20170222170124 and 20170222170237.
+
+Average tick interval: 5131 miliseconds.
+Maximum tick interval found: 111750 miliseconds.

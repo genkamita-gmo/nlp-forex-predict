@@ -1,0 +1,23 @@
+HistData.com (c) 2012
+File: DAT_ASCII_EURNZD_M1_201702.csv Status Report
+
+Gap of 73s found between 20170205172742 and 20170205172901.
+Gap of 61s found between 20170205173707 and 20170205173814.
+Gap of 62s found between 20170205174055 and 20170205174204.
+Gap of 60s found between 20170206175705 and 20170206175811.
+Gap of 73s found between 20170207170228 and 20170207170347.
+Gap of 62s found between 20170207171853 and 20170207172001.
+Gap of 60s found between 20170213174905 and 20170213175012.
+Gap of 65s found between 20170214174555 and 20170214174706.
+Gap of 70s found between 20170215171946 and 20170215172102.
+Gap of 61s found between 20170216180702 and 20170216180810.
+Gap of 98s found between 20170220170322 and 20170220170506.
+Gap of 73s found between 20170220171428 and 20170220171548.
+Gap of 60s found between 20170223171129 and 20170223171236.
+Gap of 64s found between 20170223173326 and 20170223173436.
+Gap of 100s found between 20170226172440 and 20170226172627.
+Gap of 74s found between 20170226172849 and 20170226173009.
+Gap of 60s found between 20170228173304 and 20170228173411.
+
+Average tick interval: 5126 miliseconds.
+Maximum tick interval found: 100750 miliseconds.
