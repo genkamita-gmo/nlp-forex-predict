@@ -44,7 +44,7 @@ it looks ok.
 #### Urgent
 Automate data cleaning
 * Write script that extracts title only, do the following steps.
-* load text as pandas dataframe and replace \n with white space and remove ".
+* load text as pandas dataframe and replace \n with white space and remove ". What will happen when loading entries with "? -> It doesn' change lines even when the number of " is odd, but the position of " is kind of randomised. See how many lines the output have and compare it against the word count of 'h =' for example.
 * save result as non decorated text file. When I do this, entries with \n will have "" but not for those without. This can be used for testing the data cleaning.
 
 #### Not Urgent
@@ -52,6 +52,7 @@ Automate data cleaning
 * Unify timzones.
 * Check all txt files can be loaded as pandas dataframe. currently timestamp cannot.
 * Make histogram of number of news.
+* Use Bloomberg dataset.
 
 ## Training Doc2Vec model
 * Using script "doc2vec-reuters.ipnb". Original: doc2vec-lee.ipynb (available in gensim repo).
