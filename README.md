@@ -44,7 +44,9 @@ it looks ok.
 #### Urgent
 Automate data cleaning
 * Write script that extracts title only, do the following steps.
-* load text as pandas dataframe and replace \n with white space and remove ". What will happen when loading entries with "? -> It doesn' change lines even when the number of " is odd, but the position of " is kind of randomised. See how many lines the output have and compare it against the word count of 'h =' for example.
+* load text as pandas dataframe and replace \n with white space and remove ". What will happen when loading entries with "? -> When loading from csv, it doesn' change lines even when the number of " is odd, but the position of " is kind of randomised. See how many lines the output have and compare it against the word count of 'h= http' for example.
+-> 8551441. Thats 26 lines less than the initial naive line count.
+Check titles that has " and see how it is loaded in when it is loaded to pandas.
 * save result as non decorated text file. When I do this, entries with \n will have "" but not for those without. This can be used for testing the data cleaning.
 
 #### Not Urgent
