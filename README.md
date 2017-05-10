@@ -49,7 +49,7 @@ it looks ok.
 ** save result as non decorated text file. When I do this, entries with \n will have "" but not for those without.
 ** reuter titles contain '"', what shall I do... Does gensim remove '"' as well? -> do some tests.
 
-# Not Urgent
+#### Not Urgent
 * Clean title.txt be removing duplicates etc.
 * Unify timzones.
 * Check all txt files can be loaded as pandas dataframe. currently timestamp cannot.
