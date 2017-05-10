@@ -45,3 +45,7 @@ it looks ok.
 * Unify timzones.
 * Check all txt files can be loaded as pandas dataframe. currently timestamp cannot.
 * Make histogram of number of news.
+
+## Training Doc2Vec model
+* Using script "doc2vec-reuters.ipnb". Original: doc2vec-lee.ipynb (available in gensim repo).
+* model.train() takes very long. Use servers for this. 
