@@ -3,7 +3,8 @@ Foreign exchange market prediction using NLP.
 
 ## Datasets
 * Historical forex data: http://www.histdata.com/download-free-forex-data/?/ascii/tick-data-quotes
-* News: https://github.com/philipperemy/Reuters-full-data-set
+* News-Reuters: https://github.com/philipperemy/Reuters-full-data-set
+* News-Bloomberg + Reuters: https://github.com/philipperemy/financial-news-dataset
 
 ## Data exploration and preparation
 
@@ -11,7 +12,7 @@ Foreign exchange market prediction using NLP.
 
 * Data extracted by script "read.py" provided in the above repo, saved them into "reuters-all.txt", then choped it into separate filea, reuters-link.txt, reuters-timestamp.txt and reuters-title.txt using sed.
 * Total days: 3514
-* Total lines in reuters-all.txt : 8551467
+* Total lines in reuters-all.txt : 8551467. According to the dataset README, it is supposed to be 8,551,441.
 * Dates of news ranging from 20070101 - 20160816; 3516 days in total.
 * Timestamps are sorted by day but not necessarily by time.
 
@@ -35,13 +36,17 @@ $ wc -l reuters-title.txt
 
  8551467 reuters-title.txt
 
-it looks ok.
+They are consistent.
 
 * Number of news per day: approx 300 - 1700
 * Holidays reduces the number of news, for example 25/Dec has 539 news
 
+### Bloomberg + Reuters news datased
+
+
+
 ### To Do
-#### Urgent
+#### Reuters-Urgent
 Automate data cleaning
 * Write script that extracts title only, do the following steps.
 * load text as pandas dataframe and replace \n with white space and remove ". What will happen when loading entries with "? -> When loading from csv, it doesn' change lines even when the number of " is odd, but the position of " is kind of randomised. See how many lines the output have and compare it against the word count of 'h= http' for example.
@@ -49,7 +54,7 @@ Automate data cleaning
 Check titles that has " and see how it is loaded in when it is loaded to pandas.
 * save result as non decorated text file. When I do this, entries with \n will have "" but not for those without. This can be used for testing the data cleaning.
 
-#### Not Urgent
+#### Reuters-Not Urgent
 * It is better to do with lots of text for Word embedding, use mixed source.
 * Clean title.txt be removing duplicates etc.
 * Unify timzones.
