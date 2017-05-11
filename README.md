@@ -12,7 +12,7 @@ Foreign exchange market prediction using NLP.
 
 * Data extracted by script "read.py" provided in the above repo, saved them into "reuters-all.txt", then choped it into separate filea, reuters-link.txt, reuters-timestamp.txt and reuters-title.txt using sed.
 * Total days: 3514
-* Total lines in reuters-all.txt : 8551467. According to the dataset README, it is supposed to be 8,551,441.
+* According to the dataset README, the total number of news is 8,551,441. However, total lines in reuters-all.txt: 8551467, due to corruption of data.
 * Dates of news ranging from 20070101 - 20160816; 3516 days in total.
 * Timestamps are sorted by day but not necessarily by time.
 
@@ -43,8 +43,8 @@ They are consistent.
 
 ### Bloomberg + Reuters news datased
 
-* 450,341 news from Bloomberg and 109,110 news from Reuters, according to README.
-* However, I count 448395 Bloomberg files.
+* 450,341 news from Bloomberg and 109,110 news from Reuters, according to README, however I count 448395 Bloomberg files.
+* Total size of news is 2.3 GB for Bloomberg and 555 MB for Reuters.
 
 ### To Do
 #### Reuters-Urgent
