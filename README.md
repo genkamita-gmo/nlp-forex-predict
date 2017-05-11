@@ -3,8 +3,8 @@ Foreign exchange market prediction using NLP.
 
 ## Datasets
 * Historical forex data: http://www.histdata.com/download-free-forex-data/?/ascii/tick-data-quotes
-* News-Reuters: https://github.com/philipperemy/Reuters-full-data-set
-* News-Bloomberg + Reuters: https://github.com/philipperemy/financial-news-dataset
+* News - Reuters: https://github.com/philipperemy/Reuters-full-data-set
+* News - Bloomberg + Reuters: https://github.com/philipperemy/financial-news-dataset
 
 ## Data exploration and preparation
 
@@ -43,7 +43,8 @@ They are consistent.
 
 ### Bloomberg + Reuters news datased
 
-
+* 450,341 news from Bloomberg and 109,110 news from Reuters, according to README.
+* However, I count 448395 Bloomberg files.
 
 ### To Do
 #### Reuters-Urgent
