@@ -56,7 +56,7 @@ Check titles that has " and see how it is loaded in when it is loaded to pandas.
 * save result as non decorated text file. When I do this, entries with \n will have "" but not for those without. This can be used for testing the data cleaning.
 
 #### Reuters-Not Urgent
-* It is better to do with lots of text for Word embedding, use mixed source.
+* It is better to do with lots of text for word embedding, use mixed source.
 * Clean title.txt be removing duplicates etc.
 * Unify timzones.
 * Check all txt files can be loaded as pandas dataframe. currently timestamp cannot.
