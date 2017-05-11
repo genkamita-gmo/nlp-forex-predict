@@ -57,7 +57,7 @@ Check titles that has " and see how it is loaded in when it is loaded to pandas.
 
 #### Reuters-Not Urgent
 * It is better to do with lots of text for word embedding, use mixed source.
-* Clean title.txt be removing duplicates etc.
+* Clean title.txt by removing duplicates etc.
 * Unify timzones.
 * Check all txt files can be loaded as pandas dataframe. currently timestamp cannot.
 * Make histogram of number of news.
