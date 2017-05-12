@@ -59,10 +59,14 @@ Check titles that has " and see how it is loaded in when it is loaded to pandas.
 * It is better to do with lots of text for word embedding, use mixed source.
 * Clean title.txt by removing duplicates etc.
 * Unify timzones.
-* Check all txt files can be loaded as pandas dataframe. currently timestamp cannot.
+* Check all txt files can be loaded as pandas dataframe. currently timestamp doesn't load properly.
 * Make histogram of number of news.
 * Use Bloomberg dataset.
 
+#### Bloomberg
+* See if I can split the input file into multiple ones.
+
 ## Training Doc2Vec model
+* Training was successful on the server with the doc2vec-lee.
 * Using script "doc2vec-reuters.ipnb". Original: doc2vec-lee.ipynb (available in gensim repo).
 * model.train() takes very long. Use servers for this. 
