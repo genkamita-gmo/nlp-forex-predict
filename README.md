@@ -45,6 +45,11 @@ They are consistent.
 
 * 450,341 news from Bloomberg and 109,110 news from Reuters, according to README, however I count 448395 Bloomberg files.
 * Total size of news is 2.3 GB for Bloomberg and 555 MB for Reuters.
+* After preprocessing and concatinating, the number of lines in the corpus file is 737222, which is much bigger than expected. I suspect extra new line charactors are increasing the number of lines. File size reduced to 1.3 GB (40% reduction? really?).
+* Training on a 770 MB file consumes about 35 GB memory. 
+
+#### Basic text analysis on bloombregcorpus.txt
+* word count: 205970873
 
 ### To Do
 #### Reuters-Urgent
