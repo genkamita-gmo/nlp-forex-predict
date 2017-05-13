@@ -38,8 +38,9 @@ $ wc -l reuters-title.txt
 ```
 They are consistent.
 
-* 
-* 
+* Number of news per day: approx 300 - 1700
+* Holidays reduces the number of news, for example 25/Dec has 539 news
+ 
 
 ## Bloomberg + Reuters news datased
 
