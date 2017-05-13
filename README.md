@@ -47,7 +47,8 @@ They are consistent.
 * Total size of news is 2.3 GB for Bloomberg and 555 MB for Reuters.
 * After preprocessing and concatinating, the number of lines in the corpus file is 737222, which is much bigger than expected. I suspect extra new line charactors are increasing the number of lines. File size reduced to 1.3 GB (40% reduction? really?).
 * Training on a 770 MB file consumes about 35 GB memory. 
-* The preprocess script makes corruption of text! See 2010-06-14/u-a-e-central-bank-head-sees-economy-growing-4-in-2010-after-contraction\_\_preprocessed\_\_
+* Some news include garbage in its original text, see the bottom of 2010-06-14/u-a-e-central-bank-head-sees-economy-growing-4-in-2010-after-contraction. The garbage starts from "Enlarge image"
+* The preprocess script makes corruption of text?
 
 #### Basic text analysis on bloombregcorpus.txt
 * word count: 205970873
