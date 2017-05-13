@@ -1,4 +1,4 @@
-# nlp-forex-predict
+# NLP-FOREX-PREDICT
 Foreign exchange market prediction using natural language processing.
 
 # Datasets
