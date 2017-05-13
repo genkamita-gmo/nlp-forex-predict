@@ -19,7 +19,7 @@ Foreign exchange market prediction using NLP.
 ---
 
 * Check number of lines in 
-
+```
 $ sh reuters-link | wc -l
 
  8551467
@@ -35,7 +35,7 @@ $ cat reuters-all.txt | wc -l
 $ wc -l reuters-title.txt
 
  8551467 reuters-title.txt
-
+```
 They are consistent.
 
 * Number of news per day: approx 300 - 1700
