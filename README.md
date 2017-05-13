@@ -1,5 +1,5 @@
 # nlp-forex-predict
-Foreign exchange market prediction using NLP.
+Foreign exchange market prediction using natural language processing.
 
 # Datasets
 * Historical forex data: http://www.histdata.com/download-free-forex-data/?/ascii/tick-data-quotes
