@@ -13,31 +13,12 @@ Foreign exchange market prediction using natural language processing.
 * Primary observation
   * Data extracted by script "read.py" provided in the above repo, saved them into "reuters-all.txt", then choped it into separate filea, reuters-link.txt, reuters-timestamp.txt and reuters-title.txt using sed.
   * Total days: 3514
-  * According to the dataset README, the total number of news is 8,551,441. However, total lines in reuters-all.txt: 8551467, due to corruption of data.
+  * Total news: 8,551,441. 
+  * Total lines in reuters-all.txt without preprocessing: 8551467. Now "read.py" is modified to remove this corruption.
   * Dates of news ranging from 20070101 - 20160816; 3516 days in total.
   * Timestamps are sorted by day but not necessarily by time.
   * Number of news per day: approx 300 - 1700
-  * Holidays reduces the number of news, for example 25/Dec has 539 news 
-* Check number of lines in 
-```
-$ sh reuters-link | wc -l
-
- 8551467
-
-$ sh reuters-timestamp | wc -l
-
- 8551467
-
-$ cat reuters-all.txt | wc -l
-
- 8551467
-
-$ wc -l reuters-title.txt
-
- 8551467 reuters-title.txt
-```
-They are consistent.
-
+  * Holidays reduces the number of news, e.g. 25/Dec has 539 news 
  
 
 ## Bloomberg + Reuters news datased
