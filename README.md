@@ -52,6 +52,12 @@ They are consistent.
 * word count: 205970873
 
 ### To Do
+
+#### Gensim training optimisation
+* Multicore doesn't work on Cent OS7, as it can be seen from the CPU % of top command. Typically, the CPU % is at 100% per thread running the dox2vec training. On my home mac, the CPU % increases as more workeres are added (4 workers -> 250 CPU%)
+* On linux, I tried Anaconda and vanila python both but the max CPU% was about 200% for both case.
+* Hyper parameter tuning:
+
 #### Reuters-Urgent
 Automate data cleaning
 * Write script that extracts title only, do the following steps.
@@ -75,3 +81,12 @@ Check titles that has " and see how it is loaded in when it is loaded to pandas.
 * Training was successful on the server with the doc2vec-lee.
 * Using script "doc2vec-reuters.ipnb". Original: doc2vec-lee.ipynb (available in gensim repo).
 * model.train() takes very long. Use servers for this. 
+* Check availability of BLAS on python which I installed on the server -> training takesw a few seconds, which means BLAS is available.
+* Parameter tuning
+    vocabulary (number, 名詞、動詞、形容詞)
+    vector dimensionality
+    Doc2vec only? Word2vec also?
+    epoch
+    model type? (DBOW, DM)
+    window
+    size of corpus
