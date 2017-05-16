@@ -90,3 +90,6 @@ Check titles that has " and see how it is loaded in when it is loaded to pandas.
     model type? (DBOW, DM)
     window
     size of corpus
+
+* Saving trained model: model.save("filename")
+* Loading trained model: np.load("filename") # returns an iterable
