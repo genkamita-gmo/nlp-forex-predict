@@ -1,6 +1,9 @@
 # NLP-FOREX-PREDICT
 Foreign exchange market prediction using natural language processing.
 
+# Library
+* gensim v1.0.1
+
 # Datasets
 * Historical forex data: http://www.histdata.com/download-free-forex-data/?/ascii/tick-data-quotes
 * News - Reuters: https://github.com/philipperemy/Reuters-full-data-set
@@ -33,24 +36,13 @@ Foreign exchange market prediction using natural language processing.
 ### Basic text analysis on bloombregcorpus.txt
 * word count: 205970873
 
-<<<<<<< HEAD
-### To Do
-
 #### Gensim training optimisation
 * Multicore doesn't work on Cent OS7, as it can be seen from the CPU % of top command. Typically, the CPU % is at 100% per thread running the dox2vec training. On my home mac, the CPU % increases as more workeres are added (4 workers -> 250 CPU%)
 * On linux, I tried Anaconda and vanila python both but the max CPU% was about 200% for both case.
 * Hyper parameter tuning:
 
 #### Reuters-Urgent
-=======
-## To Do
-### Reuters-Urgent
->>>>>>> 63cf311da4a19490557da6c74863a2196f391b44
-Automate data cleaning
-* Write script that extracts title only, do the following steps.
-* load text as pandas dataframe and replace \n with white space and remove ". What will happen when loading entries with "? -> When loading from csv, it doesn' change lines even when the number of " is odd, but the position of " is kind of randomised. See how many lines the output have and compare it against the word count of 'h= http' for example.
--> 8551441. Thats 26 lines less than the initial naive line count.
-Check titles that has " and see how it is loaded in when it is loaded to pandas.
+* Word count of 'h= http' on text output of original "read.py" -> 8551441. Thats 26 lines less than the initial naive line count.
 * save result as non decorated text file. When I do this, entries with \n will have "" but not for those without. This can be used for testing the data cleaning.
 
 ### Reuters-Not Urgent
