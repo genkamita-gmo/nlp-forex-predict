@@ -1,0 +1,1 @@
+n $(find . -name *vol); do wc -l $file| grep '\ 0\ ' >> /tmp/file2rm ; done; for file in $( cat /tmp/file2rm ); do rm $file; done
