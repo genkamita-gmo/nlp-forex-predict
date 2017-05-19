@@ -1,0 +1,6 @@
+for pair in $( cat good-pair-year.txt ); do
+	touch $pair-vol.txt
+	for file in $(find . -name *$pair*.csv-date-vol ); do
+		cat $file >> $pair-vol.txt
+	done
+done
