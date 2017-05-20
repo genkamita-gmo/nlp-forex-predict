@@ -31,11 +31,14 @@ for pair in pairs:
            try:
                print("vol: #### LIST ####")
                temp_column[index] = vol[0]
+               vol_prev = vol[0]
            except:
                print("vol: #### SCALAR ####")
                temp_column[index] = vol
+               vol_prev = vol
         except:
             print("vol: ----UNAVAILABLE----") 
+            temp_column[index] = vol_prev
         print temp_column[index]
  	index += 1
     dataset[ pair] = temp_column
