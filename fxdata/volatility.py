@@ -6,11 +6,16 @@ def compound_interest(price_list):
 
 def variance(price_list):
  compoundinterest = compound_interest(price_list)
- avg = mean(compoundinterest)
- return sum( [(x - avg)**2 for x in compoundinterest] ) / float(len(compoundinterest))
+# avg = mean(compoundinterest)
+ return sum( [x**2 for x in compoundinterest] ) / float(len(compoundinterest))
+
+def normalized_variance(price_list):
+    var = variance(price_list)
+    samples = len(price_list)
+    return var * (1000/samples)  # normalising volatility to 1000 ticks
 
 def volatility(price_list):
- vol = sqrt( variance(price_list) )
+ vol = sqrt( normalized_variance(price_list) )
  return vol
 
 if __name__ == "__main__":
